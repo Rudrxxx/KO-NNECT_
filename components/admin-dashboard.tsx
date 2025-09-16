@@ -83,7 +83,7 @@ export default function AdminDashboard({ onBack }: AdminDashboardProps) {
             <Button variant="ghost" size="sm" onClick={handleBack}>
               <ArrowLeft className="h-4 w-4" />
             </Button>
-            <h2 className="text-xl font-bold text-sidebar-foreground">KO-NECT</h2>
+            <h2 className="text-xl font-bold text-sidebar-foreground">KO-NNECT</h2>
           </div>
 
           <nav className="space-y-2">
